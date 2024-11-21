@@ -1,0 +1,28 @@
+.Bello {
+font-size: 40px;
+font-family:"Comic Sans MS";
+text-align: center     ;
+
+}
+
+#banner1 {
+    border-width:500px ; border-radius:50% ;
+}
+#banner1:hover {
+border-width: 5px; border-style: outset; border-color: blueviolet;
+}
+th,td,table,tr{
+    border-width: 2px;
+    border-style:solid;
+    border-color: blueviolet;
+
+}
+
+td,th{
+    width: 150px;
+    height: 150px;
+}
+
+th{
+    height: 100px;
+}
